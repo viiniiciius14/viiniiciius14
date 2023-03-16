@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=130&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&duration=4000&pause=1000&color=49A5BE&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+MEU+NOME+%C3%89+MARCUS+VINICIUS+;TENHO+21+ANOS;ATUALMENTE+ESTUDO+TECNOLOGIAS+FRONT-END;SEJA+BEM+VINDO!+%F0%9F%AB%A1)](https://git.io/typing-svg)
 
 <h2>💡Projetos</h2> 

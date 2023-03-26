@@ -23,5 +23,4 @@ Acesse: <a href="https://viiniiciius14.github.io/Projetos_Github/HTML-CSS/Projet
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_viiniiciiuss)
 
 #
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&duration=4000&pause=1000&color=49A5BE&center=true&vCenter=true&repeat=false&width=1000&lines=DESENVOLVENDO+A+PROXIMA+GERA%C3%87%C3%83O+DE+EXPERIENCIAS+DIGITAIS.)](https://git.io/typing-svg)
  
